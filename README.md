@@ -28,4 +28,4 @@ The set-up of the “Push n Pull App”:
 ![App3](https://user-images.githubusercontent.com/97241022/148412325-d674ac51-6937-409c-a0b3-8479b9112ac6.png)
 ![App2](https://user-images.githubusercontent.com/97241022/148412338-be3bd17d-9437-4952-8d6f-962569234036.png)
 
-<img src="https://user-images.githubusercontent.com/97241022/148412338-be3bd17d-9437-4952-8d6f-962569234036.png" width="20" />
+<img src="https://user-images.githubusercontent.com/97241022/148412338-be3bd17d-9437-4952-8d6f-962569234036.png" width="200" />
