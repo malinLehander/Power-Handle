@@ -12,12 +12,11 @@ The list can be found in the “History” view.
 When a measurement is chosen, the measurement is presented in a graph of the effort (Newton) over the time (seconds), and also the mean value can be seen. 
 It is also possible to delete measurements in the history list. 
 
+The set-up of the Power Handle: 
 ![PowerHandle1](https://user-images.githubusercontent.com/97241022/148410238-9c582845-959c-483b-aea6-386b4eb30203.png)
-The set-up of the Power Handle. 
 
 ![PowerHandle2](https://user-images.githubusercontent.com/97241022/148410680-423caf23-0b3f-4ac4-888a-2308b4302854.png)
-The set-up of the Power Handle. 
 
+PCB board: (with Sparkfun Load Cell Amplifier, connectors to the load cells and Arduino Nano BLE) 
 ![PCB](https://user-images.githubusercontent.com/97241022/148410987-99d236c8-71f9-40a0-a14f-76727e5429d0.png)
-PCB board with Sparkfun Load Cell Amplifier, connectors to the load cells and Arduino Nano BLE. 
-The PCB board gets current through a portable power bank.
+
