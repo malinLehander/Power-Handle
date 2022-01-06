@@ -12,6 +12,9 @@ The list can be found in the “History” view.
 When a measurement is chosen, the measurement is presented in a graph of the effort (Newton) over the time (seconds), and also the mean value can be seen. 
 It is also possible to delete measurements in the history list. 
 
+Link to video when using the Power Handle: https://youtu.be/_WBeGIodWGo 
+
+
 The set-up of the Power Handle: 
 
 <img src="https://user-images.githubusercontent.com/97241022/148410238-9c582845-959c-483b-aea6-386b4eb30203.png" width="300" /> <img src="https://user-images.githubusercontent.com/97241022/148410680-423caf23-0b3f-4ac4-888a-2308b4302854.png" width="250" />
@@ -30,6 +33,4 @@ Strain gauges arranged in a load cell configuration:
 The set-up of the “Push n Pull App”: 
 
 <img src="https://user-images.githubusercontent.com/97241022/148411969-7020aa7b-69cb-45c5-b4df-0515569ce700.png" width="250" /> <img src="https://user-images.githubusercontent.com/97241022/148412338-be3bd17d-9437-4952-8d6f-962569234036.png" width="250" /> <img src="https://user-images.githubusercontent.com/97241022/148412325-d674ac51-6937-409c-a0b3-8479b9112ac6.png" width="250" />
-
-Link to video when using the Power Handle: https://youtu.be/_WBeGIodWGo 
 
