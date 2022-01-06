@@ -24,6 +24,6 @@ Strain gauges arranged in a load cell configuration:
 ![Loadcell](https://user-images.githubusercontent.com/97241022/148411713-71caef38-f084-4d7e-9215-a1c2d499cead.png)
 
 The set-up of the “Push n Pull App”: 
-![App1](https://user-images.githubusercontent.com/97241022/148411969-7020aa7b-69cb-45c5-b4df-0515569ce700.png)
+![App1](https://user-images.githubusercontent.com/97241022/148411969-7020aa7b-69cb-45c5-b4df-0515569ce700.png | width=100)
 ![App3](https://user-images.githubusercontent.com/97241022/148412325-d674ac51-6937-409c-a0b3-8479b9112ac6.png)
 ![App2](https://user-images.githubusercontent.com/97241022/148412338-be3bd17d-9437-4952-8d6f-962569234036.png)
