@@ -14,12 +14,9 @@ It is also possible to delete measurements in the history list.
 
 The set-up of the Power Handle: 
 
-<img src="https://user-images.githubusercontent.com/97241022/148410238-9c582845-959c-483b-aea6-386b4eb30203.png" width="250" />
-
-<img src="https://user-images.githubusercontent.com/97241022/148410680-423caf23-0b3f-4ac4-888a-2308b4302854.png" width="250" />
+<img src="https://user-images.githubusercontent.com/97241022/148410238-9c582845-959c-483b-aea6-386b4eb30203.png" width="300" /> <img src="https://user-images.githubusercontent.com/97241022/148410680-423caf23-0b3f-4ac4-888a-2308b4302854.png" width="250" />
 
 
-![PowerHandle2](https://user-images.githubusercontent.com/97241022/148410680-423caf23-0b3f-4ac4-888a-2308b4302854.png)
 
 PCB board: (with Sparkfun Load Cell Amplifier, connectors to the load cells and Arduino Nano BLE) 
 ![PCB](https://user-images.githubusercontent.com/97241022/148410987-99d236c8-71f9-40a0-a14f-76727e5429d0.png)
