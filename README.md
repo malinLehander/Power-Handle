@@ -11,3 +11,4 @@ The app summarizes the measured values. The measurement is then saved in a histo
 The list can be found in the “History” view. 
 When a measurement is chosen, the measurement is presented in a graph of the effort (Newton) over the time (seconds), and also the mean value can be seen. 
 It is also possible to delete measurements in the history list. 
+![PowerHandle1](https://user-images.githubusercontent.com/97241022/148410238-9c582845-959c-483b-aea6-386b4eb30203.png)
