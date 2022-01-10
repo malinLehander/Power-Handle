@@ -13,6 +13,7 @@ When a measurement is chosen, the measurement is presented in a graph of the eff
 It is also possible to delete measurements in the history list. 
 
 Link to video about the Power Handle: https://www.youtube.com/watch?v=xPIKeaSisOw
+
 Link to video when using the Power Handle: https://youtu.be/_WBeGIodWGo 
 
 
